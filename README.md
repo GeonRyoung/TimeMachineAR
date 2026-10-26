@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=IOSgaIrnLFI">
-    <img src="docs/readme/demo-thumbnail.jpg" width="800" alt="타임머신AR 공식 시연 영상 — 실내 내비게이션, 측위 기술, AR 렌더링">
+    <img src="docs/readme/demo-thumbnail.png" width="800" alt="TimeMachineAR — 팀 SHGR 프로젝트 소개, 클릭하면 YouTube 시연 영상으로 이동">
   </a>
 </p>
 <p align="center">
