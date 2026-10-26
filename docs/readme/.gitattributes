@@ -1,0 +1,3 @@
+# README images must render directly on GitHub without Git LFS.
+*.png -filter -diff -merge -text
+*.jpg -filter -diff -merge -text
