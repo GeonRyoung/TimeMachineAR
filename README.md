@@ -173,4 +173,4 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 |---|---|---|
 | 박건령 | [@GeonRyoung](https://github.com/GeonRyoung) | UE5 클라이언트 · AI 도슨트 UI/연동 · 내비게이션 UI · 백엔드 |
 | 김시현 | [@sajul127](https://github.com/sajul127) | AR 트래킹 · 고생물 오버레이 · AR 이펙트 · 모바일 최적화 |
-| 임현우 | | 실내 내비게이션 (측위 · Cloud Anchor · 경로 탐색 서버 · 길안내) |
+| 임현우 | [@dlagusdn0204](https://github.com/dlagusdn0204) | 실내 내비게이션 (측위 · Cloud Anchor · 경로 탐색 서버 · 길안내) |
